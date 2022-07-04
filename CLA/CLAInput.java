@@ -9,3 +9,10 @@ class CLAInput{
 			System.out.print(e+"\t");
 	}
 }
+
+
+/* IN CMD
+javac FileName.java            (for compiling the source code)
+java CLAInput 10 20 30 40 50    (for running the code and giving the argument(command line argument)
+OUTPUT:-   10 20 30 40 50 
+*/
